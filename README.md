@@ -62,6 +62,4 @@ This repository demonstrates:
 
 ---
 
-## ⭐ Connect with Me
-- GitHub: https://github.com/94sonikaran  
-- LinkedIn: www.linkedin.com/in/karan-soni-b18180225
+
